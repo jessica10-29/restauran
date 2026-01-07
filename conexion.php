@@ -1,5 +1,5 @@
 <?php
-$host = "if0_40844915";
+$host = "sql302.infinityfree.com";
 $user = "if0_40844915";
 $pass = "JJ132420";
 $db = "if0_40844915_restaurante";
